@@ -2,6 +2,8 @@
 
 Senior Security Engineer who automates things, breaks things, and occasionally fixes them. Big on mentorship and making security less painful for everyone.
 
+Studied software engineering and loved building things, but life took me down the security path. Vibe coding brought that passion back.
+
 ## Tech & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
