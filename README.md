@@ -12,9 +12,7 @@ Senior Security Engineer who automates things, breaks things, and occasionally f
 
 ## GitHub Stats
 
-![Scott's GitHub Stats](https://github-readme-stats.vercel.app/api?username=scottalt&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scottalt&layout=compact&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com/?user=scottalt&theme=default)
 
 ## Connect
 
