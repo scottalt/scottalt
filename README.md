@@ -1,8 +1,8 @@
 # Hey, I'm Scott 👋
 
-Senior Security Engineer focused on security automation and helping engineering teams build securely at scale — not as an afterthought, but from the start.
+Senior Security Engineer. I build security automation and spend a lot of time convincing engineers that security doesn't have to be painful.
 
-Studied software engineering, ended up in security. Vibe coding brought the builder side back.
+Studied software engineering, fell into security, and never looked back. Vibe coding brought the builder side back out.
 
 ## What I Work With
 
