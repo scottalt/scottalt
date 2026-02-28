@@ -12,9 +12,9 @@ Studied software engineering and loved building things, but life took me down th
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## GitHub Stats
+## GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=scottalt&theme=default)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=scottalt&theme=minimal)
 
 ## Connect
 
