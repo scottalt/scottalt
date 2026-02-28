@@ -22,4 +22,5 @@ Studied software engineering, fell into security, and never looked back. Vibe co
 
 ## Connect
 
+[![Website](https://img.shields.io/badge/-scottaltiparmak.com-000000?style=flat&logo=googlechrome&logoColor=white)](https://scottaltiparmak.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/scottaltiparmak/)
