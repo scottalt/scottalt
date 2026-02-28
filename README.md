@@ -1,16 +1,20 @@
 # Hey, I'm Scott 👋
 
-Senior Security Engineer who automates things, breaks things, and occasionally fixes them. Big on mentorship and making security less painful for everyone.
+Senior Security Engineer focused on security automation and helping engineering teams build securely at scale — not as an afterthought, but from the start.
 
-Studied software engineering and loved building things, but life took me down the security path. Vibe coding brought that passion back.
+Studied software engineering, ended up in security. Vibe coding brought the builder side back.
 
-## Tech & Tools
+## What I Work With
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+## Currently
+
+🔭 Building cybersecurity automation tools and personal projects
 
 ## GitHub Activity
 
