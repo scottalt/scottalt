@@ -1,6 +1,6 @@
 # Hey, I'm Scott 👋
 
-Senior Information Security Engineer focused on building tools and automation that help organizations defend against real-world threats. I spend most of my time at the intersection of security engineering and applied research — figuring out what's broken, then building something to fix it.
+Senior Information Security Engineer focused on building tools and automation that help organizations defend against real-world threats. I spend most of my time between security engineering and applied research, figuring out what's broken and then building something to fix it.
 
 Studied software engineering, moved into cybersecurity, and found the space where both skill sets matter most. Lately, vibe coding has brought the creative builder side back out in a big way.
 
@@ -14,7 +14,7 @@ Studied software engineering, moved into cybersecurity, and found the space wher
 
 ## What I'm Working On
 
-🔬 Researching AI-assisted approaches to threat detection and security automation — exploring how language models and machine learning can improve the speed and accuracy of identifying vulnerabilities and responding to incidents.
+🔬 Researching how AI can be used to detect and combat phishing attacks. Specifically looking at how language models can identify phishing content, generate realistic simulations for security awareness training, and improve the speed and accuracy of phishing detection at scale.
 
 🛠️ Developing open-source cybersecurity tools that automate common security engineering workflows, from cloud misconfiguration detection to log analysis and incident response triage.
 
@@ -22,7 +22,7 @@ Studied software engineering, moved into cybersecurity, and found the space wher
 
 ## Why This Matters to Me
 
-Cybersecurity is a national-scale challenge that affects critical infrastructure, healthcare, finance, and everyday people. I'm motivated by the idea that better tooling and shared research can meaningfully reduce risk — not just for one organization, but across the industry. Open-sourcing what I build is part of that.
+Cybersecurity is a national-scale challenge that affects critical infrastructure, healthcare, finance, and everyday people. I'm motivated by the idea that better tooling and shared research can meaningfully reduce risk, not just for one organization but across the industry. Open-sourcing what I build is part of that.
 
 ## GitHub Activity
 
