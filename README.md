@@ -2,7 +2,7 @@
 
 Senior Information Security Engineer focused on building tools and automation that help organizations defend against real-world threats. I spend most of my time between security engineering and applied research, figuring out what's broken and then building something to fix it.
 
-Studied software engineering, moved into cybersecurity, and found the space where both skill sets matter most. Lately, vibe coding has brought the creative builder side back out in a big way.
+Studied software engineering, moved into cybersecurity, and found the space where both skill sets matter most. AI-assisted development has brought the builder side back out in a big way.
 
 ## What I Work With
 
@@ -22,9 +22,9 @@ Studied software engineering, moved into cybersecurity, and found the space wher
 
 📚 **[infosec-resources](https://github.com/scottalt/infosec-resources)** is an opinionated guide for people breaking into cybersecurity, covering roadmaps, certs, labs, and common mistakes.
 
-## Why This Matters to Me
+## Why I Open Source
 
-Cybersecurity is a national-scale challenge that affects critical infrastructure, healthcare, finance, and everyday people. I'm motivated by the idea that better tooling and shared research can meaningfully reduce risk, not just for one organization but across the industry. Open-sourcing what I build is part of that.
+I learn the most when I build in the open. Sharing tools and research means other people can poke holes in it, improve it, or use it to solve problems I hadn't thought of. That feedback loop is the whole point.
 
 ## GitHub Activity
 
