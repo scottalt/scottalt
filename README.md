@@ -14,11 +14,13 @@ Studied software engineering, moved into cybersecurity, and found the space wher
 
 ## What I'm Working On
 
-🔬 Researching how AI can be used to detect and combat phishing attacks. Specifically looking at how language models can identify phishing content, generate realistic simulations for security awareness training, and improve the speed and accuracy of phishing detection at scale.
+🔬 **[phish-or-not](https://github.com/scottalt/phish-or-not)** is my current research project. It's an interactive platform that studies how well humans detect AI-generated phishing when linguistic quality is no longer a reliable signal. Players classify 1,000 AI-generated emails across six attack vectors (urgency, authority impersonation, credential harvesting, hyper-personalization, pretexting, and fluent prose) while the platform collects pseudonymous research data. The core question: which phishing techniques are humans most likely to miss when both legitimate and malicious emails are written equally well?
 
-🛠️ Developing open-source cybersecurity tools that automate common security engineering workflows, from cloud misconfiguration detection to log analysis and incident response triage.
+🛡️ **[Enterprise-Zapp](https://github.com/scottalt/Enterprise-Zapp)** scans Entra ID tenants for orphaned apps, risky service principals, and misconfigured app registrations. It produces a risk-rated inventory so security teams can clean up what they didn't know was there.
 
-🧩 Building personal projects that combine security domain knowledge with modern AI tooling to solve practical problems defenders face every day.
+🃏 **[Threat-Intel-Tarot](https://github.com/scottalt/Threat-Intel-Tarot)** turns 78 real adversary profiles from MITRE ATT&CK into a tarot card deck. It's a creative way to explore TTPs, export ATT&CK Navigator layers, and make threat intelligence more approachable.
+
+📚 **[infosec-resources](https://github.com/scottalt/infosec-resources)** is an opinionated guide for people breaking into cybersecurity, covering roadmaps, certs, labs, and common mistakes.
 
 ## Why This Matters to Me
 
